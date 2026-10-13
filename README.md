@@ -11,7 +11,7 @@ I'm an economics student at Vanderbilt University pursuing a minor in business. 
 ## What I bring
 
 
-- **Research and analysis:** Experience researching REITs, evaluating market trends and operating performance, and presenting investment recommendations with the Colgate Investment Group.
+- **Research and analysis:** Experience researching REITs, evaluating market trends and operating performance,creating invetsment recommendations and am currenlty working to start a FinTech Club at Vanderbilt.
 - **Business perspective:** Independent research on private resort development, private equity investment, and long-term strategy.
 - **Leadership and execution:** Experience managing a service council budget, coordinating operations, and leading student initiatives.
 - **Tools:** Excel, Google Sheets, PowerPoint, and AI agent and workflow development with ChatGPT.
@@ -21,7 +21,6 @@ I'm an economics student at Vanderbilt University pursuing a minor in business. 
 
 
 - AI workflows that simplify research and repetitive business tasks.
-- Working to establish a Vanderbilt FinTech Club and build a campus community interested in the intersection of finance and technology
 - Data-informed approaches to strategy and operational problems.
 - Using AI to develop applications for everyday life and real estate.
 
