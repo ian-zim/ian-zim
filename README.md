@@ -12,7 +12,7 @@ I'm an economics student at Vanderbilt University pursuing a minor in business. 
 
 **Leadership and execution:** Managing budgets, coordinating operations, and leading student initiatives.
 
-**Tools:** Excel, Google Sheets, PowerPoint, and AI agent and workflow development with ChatGPT.
+**Tools:** Excel, Google Sheets, PowerPoint, and building AI agents and workflows.
 
 ## What I'm exploring
 
