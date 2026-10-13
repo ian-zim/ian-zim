@@ -7,7 +7,6 @@
 I'm an economics student at Vanderbilt University pursuing a minor in business. I'm interested in applying research, financial analysis, and AI to solve practical business problems. I'm exploring opportunities in consulting, AI, and FinTech.
 
 
-I'm currently working to establish a FinTech club at Vanderbilt University.
 
 ## What I bring
 
@@ -22,6 +21,7 @@ I'm currently working to establish a FinTech club at Vanderbilt University.
 
 
 - AI workflows that simplify research and repetitive business tasks.
+- Working to establish a Vanderbilt FinTech Club and build a campus community interested in the intersection of finance and technology
 - Data-informed approaches to strategy and operational problems.
 - Using AI to develop applications for everyday life and real estate.
 
