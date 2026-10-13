@@ -2,7 +2,7 @@
 
 **Vanderbilt Economics | Consulting, AI workflows, and startups**
 
-I'm an economics student at Vanderbilt University, pursuing a business minor and exploring how research, financial analysis, and AI can help organizations make better decisions. I'm interested in consulting and opportunities with AI and startup teams.
+I'm an economics student at Vanderbilt University pursuing a minor in business. I'm interested in applying research, financial analysis, and AI to solve practical business problems. I'm exploring opportunities in consulting, AI, and FinTech.
 
 ## What I bring
 
@@ -15,7 +15,7 @@ I'm an economics student at Vanderbilt University, pursuing a business minor and
 
 - AI workflows that simplify research and repetitive business tasks.
 - Data-informed approaches to strategy and operational problems.
-- Turning early ideas into useful products and experiments.
+- Using AI to develop applications for everyday life and real estate.
 
 ## Connect
 
